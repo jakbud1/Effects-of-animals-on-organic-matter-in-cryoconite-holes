@@ -65,3 +65,5 @@ qqnorm(residuals(m1_field_LYR)); qqline(residuals(m1_field_LYR))
 visreg(m1_field_LYR, "ani_den", "ani_type")
 
 anova(m0_field_LYR, m1_field_LYR)
+
+### Figury
